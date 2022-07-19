@@ -2,15 +2,15 @@
  
 Generater model : structure of generator model is taken from UWGAN 
  
-![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/Screenshot%20(219)%20-%20Copy.png)
+![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/generator_image.png)
 
 here we used skip connections and msdb layers to improve performance of our model.
 
 # MSDB LAYERS
  
-![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/Screenshot%20(220).png)
-![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/Screenshot%20(221).png)
-![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/Screenshot%20(222).png)
+![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/msdb_image.png)
+![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/loss_func_image1.png)
+![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/loss_func_image2.png)
  
 Discriminator model : For discriminator model I have used the inception model cause it is very good at discriminating images even they are almost same.
  
