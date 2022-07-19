@@ -12,7 +12,7 @@ here we used skip connections and msdb layers to improve performance of our mode
 ![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/loss_func_image1.png)
 ![alt text](https://github.com/sachin327/Underwater-image-enhancement/blob/main/images/loss_func_image2.png)
  
-Discriminator model : For discriminator model I have used the inception model cause it is very good at discriminating images even they are almost same.
+Discriminator model : For discriminator model I have used the inception model cause it is very good at discriminating images even if they are almost same.
  
 
 Loss function :
