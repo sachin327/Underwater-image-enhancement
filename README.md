@@ -1,3 +1,5 @@
+#How to Run
+Download and run GAN.ipynb file in google colab
 # Underwater image enhancement
  
 Generater model : structure of generator model is taken from UWGAN 
